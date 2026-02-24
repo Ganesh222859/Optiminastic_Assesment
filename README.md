@@ -1,7 +1,4 @@
-# Optiminastic_Assesment
-
-Gemini said
-Here is a clean, professional README.md file for your project. You can paste this directly into a new file in your project folder.
+# Optiminastic_Assesment.
 
 Wallet & Transaction System API
 A robust, lightweight backend for managing digital wallets and order processing. Built with Python and Flask, this system ensures financial data integrity through atomic transactions and database locking.
